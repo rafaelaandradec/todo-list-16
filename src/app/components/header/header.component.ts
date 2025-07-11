@@ -5,7 +5,6 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { MatDialogModule } from '@angular/material/dialog';
 
-
 @Component({
   selector: 'app-header',
   standalone: true,
